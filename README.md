@@ -9,7 +9,7 @@ Este repositório contém o projeto de **Análise Exploratória (EDA) e Pré-pro
 
 ## 📌 Principais Funcionalidades & Insights
 - 🧹 **Limpeza e Normalização de Tipos**: Conversão de variáveis críticas (price e milage) de texto para formato numérico, removendo caracteres especiais e símbolos de moeda via RegEx.
-- 🛠️ **Tratamento de Dados Ausentes**: Imputação estratégica baseada em lógica de negócio, como a identificação de veículos elétricos e a binarização da variável clean_title.
+- 🛠️ **Tratamento de Dados Ausentes**: Imputação estratégica baseada em lógica de negócio, como a identificação de veículos elétricos e a binarização da variável accident.
 - ⚙️ **Feature Engineering**: Extração técnica de dados de motores (HP, Cilindrada, Turbo) e criação de agrupamentos semânticos (Brand Tiers e Model Personas).
 - 📊 **Análise de Outliers Segmentada**: Implementação de técnica de IQR por nicho de mercado, preservando veículos de luxo e performance enquanto remove ruídos estatísticos.
 - 🧪 **Validação de Hipóteses**: Estudo estatístico sobre a depreciação por idade, impacto da quilometragem e registro de sinistros, além da evolução da transmissão automática no mercado.
