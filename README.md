@@ -1,8 +1,6 @@
 # mvp-puc-analise-dados
 Repositório para documentação do MVP produzido na Sprint de Análise de Dados e Boas Práticas, parte da pós graduação em Ciência de Dados e Analytics da PUC-RJ.
 
-# READ ME
-
 # 🚗 Previsão de Preços de Veículos Usados (Análise & Pré-processamento)
 
 Este repositório contém o projeto de **Análise Exploratória (EDA) e Pré-processamento de Dados** focado no mercado de carros usados dos EUA (dados de 2023). O objetivo principal é transformar dados brutos de *web scraping* em um conjunto de dados estruturado e validado para modelos de regressão, auxiliando vendedores na escolha assertiva de preços.
